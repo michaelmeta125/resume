@@ -1,7 +1,7 @@
 [michael.meta125@gmail.com](mailto:michael.meta125@gmail.com) | 
 [321.696.9234](tel:3216969234)
 
-# Michael Meta &ndash; Software Developer
+# Michael Meta &ndash; Software Engineer
 - 2 years of experience as a software engineer in various capacities
 - Full stack skill-set (JS, Reactjs, MSFT Stack, Java)
 
