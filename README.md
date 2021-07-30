@@ -2,13 +2,12 @@
 [321.696.9234](tel:3216969234)
 
 # Michael Meta &ndash; Software Developer
-- 2 years of experience as a software developer in various capacities
-- Full stack skill-set
+- 2 years of experience as a software engineer in various capacities
+- Full stack skill-set (JS, Reactjs, MSFT Stack, Java)
 
 ## Education
 **Southern New Hampshire University, NH**  
-B.S. in Computer Sciences  
-*Heavy STEM*  
+B.S. in Computer Sciences   
 *Jan 2020*  
 
 **Seminole State College, Fl**  
@@ -24,19 +23,30 @@ B.S. in Business and Information Management
 ## Skills
 - Architectural Pattern &ndash; Data access Layers, UI Layers, BLL
 - Methodology &ndash; Agile, Cross-platform Development, Object-Oriented Programming
-- Programming Language &ndash; C#, SQL, VB
-  - Familiar &ndash; TypeScript, JavaScript, CSS, SASS, HTML, C++, Java, MD, XML
-- Data 
-   - Familiar &ndash; Schema design, table design, datatype best practices
+- Programming Languages &ndash; JavaScript, C#, SQL, VB
 
 ## Tools
-- Framework/Runtime &ndash;  .Net, .NetCore, ASP.NET, ASP.NET Core, Angular, Node.js, Express, Bootstrap
+- Framework/Runtime &ndash; Reactjs, Node.js, .Net, .NetCore, ASP.NET, ASP.NET Core, 
 - Change Control &ndash; GitLab, GitHub
+- Work/Defect Tracking &ndash; Jira
+- Logging &ndash; Kibana
 - ORMS &ndash; Entity Framework
-- Data &ndash; SQL Server, Oracle, Teradata
-- Other &ndash; IIS, Docker, Kubernetes, NPM, MSFT Nuget, LINQ, Stored Procedures
+- Data &ndash; HTTP Services, SQL Server, Oracle, Teradata
+- Other &ndash; NPM, Artifactory, Adobe Content Manager (AEM), AWS, IIS, Docker, Kubernetes, MSFT Nuget, LINQ, Stored Procedures
 
 ## Experience
+
+**Verizon - Temple Terrace, Fl**  
+Software Engineer 1  
+*September 2020 &ndash; Present*  
+- UI engineer for VzEngage project (Salesforce replacement)
+- Coded solutions for business clients based on UX designs
+- Design and code in Javascript using ReactJS library to build fluent user interfaces
+- Uses http libraries like axios to perform CRUD operations
+- Updates defect and story statuses in Jira timely meeting all client deadlines
+- Test end to end functionality and feel of UI making adjustments when necessary
+- Took part in refactoring codebase to use styled components
+
 **Verizon - Lake Mary, Fl**  
 Sys Specialist - System Analysis and Programming  
 *September 2018 &ndash; Present*  
