@@ -18,8 +18,6 @@ Certificate in Programming
 B.S. in Business and Information Management  
 *Jan 2015*  
 
-
-
 ## Skills
 - Architectural Pattern &ndash; Data access Layers, UI Layers, BLL
 - Methodology &ndash; Agile, Cross-platform Development, Object-Oriented Programming
@@ -38,7 +36,7 @@ B.S. in Business and Information Management
 
 **Verizon - Temple Terrace, Fl**  
 Software Engineer 1  
-*September 2020 &ndash; Present*  
+*October 2020 &ndash; Present*  
 - UI engineer for VzEngage project (Salesforce replacement)
 - Coded solutions for business clients based on UX designs
 - Design and code in Javascript using ReactJS library to build fluent user interfaces
@@ -49,7 +47,7 @@ Software Engineer 1
 
 **Verizon - Lake Mary, Fl**  
 Sys Specialist - System Analysis and Programming  
-*September 2018 &ndash; Present*  
+*September 2018 &ndash; October 2020*  
 - Designed, built, and maintained process to automate access provisioning.
 - Multi project solution containing multiple objects for interacting with the Document Object Model through interfaces created.
 - Designed, built, and maintained ASP.Net core web APIs to be consumed by applications
