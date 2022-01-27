@@ -3,7 +3,7 @@
 
 # Michael Meta &ndash; Software Engineer
 - 2 years of experience as a software engineer in various capacities
-- Full stack skill-set (JS, Reactjs, MSFT Stack, Java)
+- Full stack skill-set (JS, Reactjs, MSFT Stack)
 
 ## Education
 **Southern New Hampshire University, NH**  
@@ -21,10 +21,10 @@ B.S. in Business and Information Management
 ## Skills
 - Architectural Pattern &ndash; Data access Layers, UI Layers, BLL
 - Methodology &ndash; Agile, Cross-platform Development, Object-Oriented Programming
-- Programming Languages &ndash; JavaScript, C#, SQL, VB
+- Programming Languages &ndash; JavaScript, C#, SQL
 
 ## Tools
-- Framework/Runtime &ndash; Reactjs, Node.js, .Net, .NetCore, ASP.NET, ASP.NET Core, 
+- Framework/Runtime &ndash; Reactjs, Node.js, .Net, .NetCore, ASP.NET, ASP.NET Core, Redux
 - Change Control &ndash; GitLab, GitHub
 - Work/Defect Tracking &ndash; Jira
 - Logging &ndash; Kibana
@@ -38,23 +38,23 @@ B.S. in Business and Information Management
 Software Engineer 1  
 *October 2020 &ndash; Present*  
 - UI engineer for VzEngage project (Salesforce replacement)
-- Coded solutions for business clients based on UX designs
-- Design and code in Javascript using ReactJS library to build fluent user interfaces
-- Uses http libraries like axios to perform CRUD operations
+- Built Lead Maintenance for channels
+  - Created user selection table based on nested Area, Region, District Data
+  - Table would illustrate the amount of items in each category, and the hierarchical structure would allow for a user to click 'All' on the top most Area and all downstream inputs would be selected
+  - Required iterating over data stored in Redux from a service call, and then manipulating to be used in the UI by adding new fields (selected, amount selected, checked/unchecked)
+  - Saved Lead Admin clients many hours and avoiding selection one by one
+- Design and code in Javascript using ReactJS library to build user interfaces based on story requirements in Jira
 - Updates defect and story statuses in Jira timely meeting all client deadlines
-- Test end to end functionality and feel of UI making adjustments when necessary
-- Took part in refactoring codebase to use styled components
+- Code reviewed by lead engineers prior to merging feature/bugfix/etc
 
 **Verizon - Lake Mary, Fl**  
 Sys Specialist - System Analysis and Programming  
 *September 2018 &ndash; October 2020*  
-- Designed, built, and maintained process to automate access provisioning.
-- Multi project solution containing multiple objects for interacting with the Document Object Model through interfaces created.
+- Designed, built, and maintained process to automate access provisioning
+- Multi project solution containing multiple objects for interacting with the Document Object Model through interfaces created
 - Designed, built, and maintained ASP.Net core web APIs to be consumed by applications
   - SQL server job statuses
   - Current Workflow Tool statuses
-  - External Weather API
-  - Crimson Hexagon Sentient Analysis
 - Currently designed Angular application to be used as a team landing page
 - Programming lead for worktool application BCA (System Access Tool) - ASP.net
   - Creates new feature and functions - multiple vendor access
@@ -71,6 +71,6 @@ Sr. Analyst
 
 **Verizon - Lake Mary, Fl**  
 Analyst
-*June 2017 &ndash; March 2018*  
+*January 2016 &ndash; November 2017*  
 
 
