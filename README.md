@@ -19,7 +19,7 @@ B.S. in Business and Information Management
 *Jan 2015*  
 
 ## Skills
-- Architectural Pattern &ndash; Data access Layers, UI Layers, BLL
+- Architectural Pattern &ndash; Data access Layers, Presentation Layer, Business layer
 - Methodology &ndash; Agile, Cross-platform Development, Object-Oriented Programming
 - Programming Languages &ndash; JavaScript, C#, SQL
 
